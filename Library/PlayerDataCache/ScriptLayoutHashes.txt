@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-D:/Program/UnityProject/TowerDefense/AndroidAPK/TowerDefense.apk
+D:/Program/TowerDefense.apk
 SceneListBegin?
 Assets/Scenes/Menu.unity
 Assets/Scenes/Main.unity
@@ -120,6 +120,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 b8c57a23945405103dd98c2d20fe1255 Assembly-CSharp.dll:.MapCube
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.Editor.Placeholder
+8acb632ac7c1c1fafce5afbd6179bf1c Assembly-CSharp.dll:.GameManager
 30c46636ddc76419bc9f94196e1d11d6 Assembly-CSharp.dll:.ViewController
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
@@ -137,6 +138,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 528ea1fd7c01796fc60c4e2f172ea229 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
 34ad13704749f0ce13c08d5fb3e4c3b7 Assembly-CSharp.dll:.BuildManager
 ea485e2ab8d815cf2efb2a96d9825a89 Assembly-CSharp.dll:.Weapon
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Menu
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback
 96d0fbde9fd209878a0a291f82c9bcdd UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.PlaymodeTestsController
 64eb32cc721b1cc68a91ed57461e188c UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.RemoteTestResultSender
@@ -156,5 +158,3 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 929e8115b4f6bed109d3ddfc08046b70 Assembly-CSharp.dll:.Enemy
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
-8acb632ac7c1c1fafce5afbd6179bf1c Assembly-CSharp.dll:.GameManager
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Menu
